@@ -1,0 +1,121 @@
+
+crack:
+  X_w: 0.1151034833696771
+  Y_w: 0.01103625869760896
+  Z_w: 0.858
+  size: 0.15
+  depth: 0.858
+  detected_time: 1665731199.810059330
+  obstacle: true
+crack:
+  X_w: -0.3156016334714443
+  Y_w: -0.1146077087739162
+  Z_w: 0.856
+  size: 0.15
+  depth: 0.856
+  detected_time: 1665731211.124738082
+  obstacle: true
+crack:
+  X_w: -0.06928703926325415
+  Y_w: -0.01182627824489701
+  Z_w: 0.847
+  size: 0.15
+  depth: 0.847
+  detected_time: 1665731212.483517006
+  obstacle: true
+crack:
+  X_w: 0.2594355989595736
+  Y_w: 0.04499792714570877
+  Z_w: 0.835
+  size: 0.15
+  depth: 0.835
+  detected_time: 1665731215.109998200
+  obstacle: true
+crack:
+  X_w: -0.174083755002374
+  Y_w: -0.1227317160719813
+  Z_w: 0.906
+  size: 0.15
+  depth: 0.906
+  detected_time: 1665731233.284406651
+  obstacle: true
+crack:
+  X_w: 0.3096705881334236
+  Y_w: 0.1706971697364526
+  Z_w: 0.659
+  size: 0.15
+  depth: 0.659
+  detected_time: 1665731240.406089106
+  obstacle: true
+crack:
+  X_w: -0.1950879799188267
+  Y_w: -0.16622723004835
+  Z_w: 0.613
+  size: 0.15
+  depth: 0.613
+  detected_time: 1665731243.716520665
+  obstacle: true
+crack:
+  X_w: -0.2477176401542648
+  Y_w: 0.0384579984197285
+  Z_w: 0.607
+  size: 0.15
+  depth: 0.607
+  detected_time: 1665731245.327455335
+  obstacle: true
+crack:
+  X_w: 0.1824159340915727
+  Y_w: -0.1534285873886861
+  Z_w: 0.632
+  size: 0.15
+  depth: 0.632
+  detected_time: 1665731247.39625671
+  obstacle: true
+crack:
+  X_w: 0.006988876365415394
+  Y_w: 0.1478462521426798
+  Z_w: 0.624
+  size: 0.15
+  depth: 0.624
+  detected_time: 1665731248.732958941
+  obstacle: true
+crack:
+  X_w: 0.06345970175532276
+  Y_w: -0.02165094588032429
+  Z_w: 0.628
+  size: 0.15
+  depth: 0.628
+  detected_time: 1665731250.554576499
+  obstacle: true
+crack:
+  X_w: -0.2804048461512929
+  Y_w: -0.4216706975403895
+  Z_w: 0.784
+  size: 0.15
+  depth: 0.784
+  detected_time: 1665731317.521635105
+  obstacle: true
+crack:
+  X_w: -0.002514024258713625
+  Y_w: 0.06792832791923632
+  Z_w: 1.78
+  size: 0.15
+  depth: 1.78
+  detected_time: 1667277310.519237283
+  obstacle: true
+crack:
+  X_w: -0.1422687638019046
+  Y_w: 0.1493138286705502
+  Z_w: 1.026
+  size: 0.15
+  depth: 1.026
+  detected_time: 1673585784.240930217
+  obstacle: true
+crack:
+  X_w: 1.157
+  Y_w: 0.1424074273143821
+  Z_w: -0.1527031328647898
+  size: 0.15
+  depth: 1.027
+  detected_time: 1673585962.718652961
+  obstacle: true

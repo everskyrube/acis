@@ -1,0 +1,6 @@
+<launch>
+    <node type="rviz" name="rviz" pkg="rviz" args="-d $(find ACIS)/rviz/skyuav.rviz" /> 
+    <!-- <node type="rviz" name="rviz" pkg="rviz" args="-d $(find ACIS)/rviz/uavnav.rviz" /> -->
+
+</launch>
+

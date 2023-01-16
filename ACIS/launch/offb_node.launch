@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="ACIS" type="offb_node" name="offb_node" output="screen">
+        <param name="basic_config" type="string" value="$(find ACIS)/config/basic_config.yaml" />
+        <!-- <param name="force_start" type="bool" value="true" />  -->
+    </node>
+</launch>

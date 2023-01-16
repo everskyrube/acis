@@ -1,0 +1,65 @@
+FJ005_geo_mode:
+    x_min: -2.8
+    y_min: -2.0
+    x_max: 2.6
+    y_max: 3.7
+
+FJ005_geo_crit:
+    x_min: -2.8
+    y_min: -2.0
+    x_max: 2.3
+    y_max: 3.3
+
+original_x: 0
+original_y: 0
+original_z: 0.0
+
+take_off1_x: 0
+take_off1_y: 0
+take_off1_z: 0.5
+take_off1_yaw: 1.5
+
+take_off2_x: 0
+take_off2_y: 0
+take_off2_z: 1.0
+take_off2_yaw: 1.5
+
+p1_x: -2.7
+p1_y: 2.0
+p1_z: 1.0
+p1_yaw: 1.5
+
+p2_x: 1.5
+p2_y: 2.0
+p2_z: 1.0
+p2_yaw: 1.5
+
+zigzag_1_x: -2.7
+zigzag_1_y: 2.0
+zigzag_1_z: 0.5
+zigzag_1_yaw: 1.5
+
+zigzag_2_x: -2.7
+zigzag_2_y: 2.0
+zigzag_2_z: 1.5
+zigzag_2_yaw: 1.5
+
+zigzag_3_x: -0.5
+zigzag_3_y: 2.0
+zigzag_3_z: 0.5
+zigzag_3_yaw: 1.5
+
+zigzag_4_x: -0.5
+zigzag_4_y: 2.0
+zigzag_4_z: 1.5
+zigzag_4_yaw: 1.5
+
+zigzag_5_x: 1.5
+zigzag_5_y: 2.0
+zigzag_5_z: 0.5
+zigzag_5_yaw: 1.5
+
+zigzag_6_x: 1.5
+zigzag_6_y: 2.0
+zigzag_6_z: 1.5
+zigzag_6_yaw: 1.5

@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="ACIS" type="fj005" name="fj005" output="screen">
+        <param name="basic_config" type="string" value="$(find ACIS)/config/basic_config.yaml" />
+        <param name="force_start" type="bool" value="false" />
+    </node>
+    <!-- <node pkg="ACIS" type="camera" name="camera" /> -->
+</launch>
