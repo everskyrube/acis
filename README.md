@@ -42,8 +42,8 @@ catkin_make
 ```
 
 ### How to use (to detect cracks in our experiment)
-1. Download [Yolov4.cfg](https://drive.google.com/file/), [Yolov4.weight](https://drive.google.com/file/) and [obj.names](https://drive.google.com/file/)
-2. Change these lines :   
+1. Download the config, weight and obj.names files from Here(https://connectpolyu-my.sharepoint.com/:f:/g/personal/19111075r_connect_polyu_hk/Ekw5lvWiybhGts8BI-H3C7oB7zRT8viEhOOmU7kE7Qd5zA?e=fm0TES)
+2. Change the path of these lines:   
 - [cfg_path]() 
 - [weight_path]()
 - [classid_path]()  
