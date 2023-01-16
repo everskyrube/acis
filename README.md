@@ -1,6 +1,7 @@
 # ACIS
 ## A Real-time Autonomous Crack Inspection System on UAV
-#Add abstract here
+
+A crack inspection system on UAV accurately computes the cracks' positions only relied on a RGB-D camera. 
 
 <p align = "center">
 
