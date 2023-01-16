@@ -44,9 +44,9 @@ catkin_make
 ### How to use (to detect cracks in our experiment)
 1. Download the config, weight and obj.names files from [Here](https://connectpolyu-my.sharepoint.com/:f:/g/personal/19111075r_connect_polyu_hk/Ekw5lvWiybhGts8BI-H3C7oB7zRT8viEhOOmU7kE7Qd5zA?e=fm0TES)
 2. Change the path of these lines:   
-- [cfg_path]() 
-- [weight_path]()
-- [classid_path]()  
+- [cfg_path](https://github.com/everskyrube/acis/blob/ad52c4416c2625b7a6ea87a48a59527f930e4a04/ACIS/src/camera.cpp#L48) 
+- [weight_path](https://github.com/everskyrube/acis/blob/ad52c4416c2625b7a6ea87a48a59527f930e4a04/ACIS/src/camera.cpp#L49)
+- [classid_path](https://github.com/everskyrube/acis/blob/ad52c4416c2625b7a6ea87a48a59527f930e4a04/ACIS/src/camera.cpp#L50)  
 ```c++
 static string cfg_path
 static string weight_path
@@ -57,7 +57,7 @@ static string classid_path
 cd ~/catkin_ws
 rosrun ACIS camera
 ```
-4. To visualize 2-D bounding boxes, uncomment the line [drawBoundingBox]()
+4. To visualize 2-D bounding boxes, uncomment the line [drawBoundingBox](https://github.com/everskyrube/acis/blob/ad52c4416c2625b7a6ea87a48a59527f930e4a04/ACIS/src/camera.cpp#L266)
 ```c++
 yolo.drawBoundingBox(image_rgb);
 ```
@@ -66,7 +66,7 @@ yolo.drawBoundingBox(image_rgb);
 cd ~/catkin_ws
 roslaunch ACIS rviz.launch
 ```
-6. To improve the detection speed or accuracy, change the default input size [yoloNet]() 
+6. To improve the detection speed or accuracy, change the default input size [yoloNet](https://github.com/everskyrube/acis/blob/ad52c4416c2625b7a6ea87a48a59527f930e4a04/ACIS/src/camera.cpp#L56) 
 ```c++
 static yoloNet yolo = yoloNet(cfg_path, weight_path, classid_path, 608, 608, 0.5);
 ```
