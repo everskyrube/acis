@@ -42,7 +42,7 @@ catkin_make
 ```
 
 ### How to use (to detect cracks in our experiment)
-1. Download the config, weight and obj.names files from Here(https://connectpolyu-my.sharepoint.com/:f:/g/personal/19111075r_connect_polyu_hk/Ekw5lvWiybhGts8BI-H3C7oB7zRT8viEhOOmU7kE7Qd5zA?e=fm0TES)
+1. Download the config, weight and obj.names files from [Here](https://connectpolyu-my.sharepoint.com/:f:/g/personal/19111075r_connect_polyu_hk/Ekw5lvWiybhGts8BI-H3C7oB7zRT8viEhOOmU7kE7Qd5zA?e=fm0TES)
 2. Change the path of these lines:   
 - [cfg_path]() 
 - [weight_path]()
