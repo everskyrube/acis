@@ -19,7 +19,7 @@ find_package(catkin REQUIRED COMPONENTS
   sensor_msgs
 )
 find_package (Eigen3 REQUIRED)
-find_package (OpenCV 4.4.0 REQUIRED)
+find_package (OpenCV 4.7.0 REQUIRED)
 find_package (yaml-cpp REQUIRED)
 find_package (Sophus REQUIRED )
 
