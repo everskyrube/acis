@@ -94,12 +94,6 @@ target_link_libraries(post_processing
     ${YAML_CPP_LIBRARIES}
     ${Sophus_LIBRARIES})
 
-add_executable(virtual
-     src/virtual.cpp
-     src/utils/yoloNet.cpp
-     src/coretracker.cpp
-     src/hogfeature.cpp)
-
 add_executable(offb_node 
      src/offb_node.cpp
      src/movement/generalmove.cpp
@@ -112,8 +106,3 @@ target_link_libraries(offb_node
      ${YAML_CPP_LIBRARIES}
      ${OpenCV_LIBRARIES}
      ${Sophus_LIBRARIES})
-
-target_link_libraries(virtual
-     ${OpenCV_LIBRARIES}
-     ${catkin_LIBRARIES}
-     ${YAML_CPP_LIBRARIES})
