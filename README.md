@@ -17,7 +17,8 @@ Pending to submit
 ### Requirements
 * **Ubuntu 16.04 or 18.04**
 * **ROS Kinetic or Melodic:** [ROS Install](http://wiki.ros.org/ROS/Installation)
-* **OpenCV >= 4.4:** [OpenCV Linux Install](https://docs.opencv.org/4.4.0/d7/d9f/tutorial_linux_install.html)
+* **OpenCV >= 4.4:** [OpenCV 4.4 Linux Install](https://docs.opencv.org/4.4.0/d7/d9f/tutorial_linux_install.html)
+* **OpenCV >= 4.7:** such that dnn module supports Yolov4-SE [OpenCV 4.7 Linux Install](https://docs.opencv.org/4.7.0/d7/d9f/tutorial_linux_install.html)
 * **Python 3.8** 
 * **CUDA >= 10.0:** [CUDA Toolkit Archive](https://developer.nvidia.com/cuda-toolkit-archive) 
 * **CUDNN >= 7.0:** [cuDNN Archive](https://developer.nvidia.com/rdp/cudnn-archive)
