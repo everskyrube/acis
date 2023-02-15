@@ -12,7 +12,7 @@ A crack inspection system on UAV accurately computes the cracks' positions only 
 [![ACIS_DEMO](https://img.youtube.com/vi/4HIoySNRzHI/0.jpg)](https://www.youtube.com/watch?v=4HIoySNRzHI)
 
 ### Publications
-Pending to submit
+Pending
 
 ### Requirements
 * **Ubuntu 16.04 or 18.04**
