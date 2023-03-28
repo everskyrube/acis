@@ -12,7 +12,7 @@ A crack inspection system on UAV accurately computes the cracks' positions only 
 [![ACIS_DEMO](https://img.youtube.com/vi/4HIoySNRzHI/0.jpg)](https://www.youtube.com/watch?v=4HIoySNRzHI)
 
 ### Publications
-Pending
+[Tse, K.-W.; Pi, R.; Sun, Y.; Wen, C.-Y.; Feng, Y. A Novel Real-Time Autonomous Crack Inspection System Based on Unmanned Aerial Vehicles. Sensors 2023, 23, 3418.](https://www.mdpi.com/1424-8220/23/7/3418)
 
 ### Requirements
 * **Ubuntu 16.04 or 18.04**
