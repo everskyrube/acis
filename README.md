@@ -28,7 +28,7 @@ A crack inspection system on UAV accurately computes the cracks' positions only 
 
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/everskyrube/ACIS.git
+clone this repository to ~/catkin_ws/src folder 
 ```
 
 2. Install 3rd Party library
